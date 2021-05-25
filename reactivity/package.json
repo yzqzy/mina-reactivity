@@ -1,0 +1,21 @@
+{
+  "name": "@minipro/reactivity",
+  "version": "1.2.0",
+  "description": "小程序状态管理解决方案。",
+  "main": "index.js",
+  "miniprogram": "dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/heora/minipro-reactivity"
+  },
+  "keywords": [
+    "响应式",
+    "数据驱动",
+    "状态管理"
+  ],
+  "author": "月落",
+  "license": "Apache-2.0"
+}

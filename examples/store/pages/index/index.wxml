@@ -1,0 +1,6 @@
+<view class="container">
+  <view class="item">我是 {{ student.name }}</view>
+  <view class="item">计数：{{ count }}</view>
+
+  <navigator url="/pages/detail/detail" hover-class="navigator-hover">跳转到详情页</navigator>
+</view>

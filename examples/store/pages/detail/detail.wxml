@@ -1,0 +1,4 @@
+<view class="container">
+  <view class="item">详情页</view>
+  <view class="item">计数：{{ count }}</view>
+</view>
