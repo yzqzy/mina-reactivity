@@ -1,6 +1,6 @@
 {
   "name": "@minipro/reactivity",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "小程序状态管理解决方案。",
   "main": "index.js",
   "miniprogram": "dist",
