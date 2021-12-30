@@ -9,7 +9,7 @@
 * 状态管理（全局 store）
 * effect（副作用）
 
-[源码地址](http://git.yueluo.club/tools/minipro-reactivity)
+[源码地址](https://github.com/iheora/minipro-reactivity)
 
 ### 安装
 
