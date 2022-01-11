@@ -1,6 +1,6 @@
 {
-  "name": "@minipro/reactivity",
-  "version": "2.0.0",
+  "name": "@mina/reactivity",
+  "version": "1.0.0",
   "description": "小程序状态管理解决方案。",
   "main": "index.js",
   "miniprogram": "dist",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/heora/minipro-reactivity"
+    "url": "https://github.com/iheora/mina-reactivity"
   },
   "keywords": [
     "响应式",

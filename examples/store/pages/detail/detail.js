@@ -1,4 +1,4 @@
-const { createPage } = require('@minipro/reactivity');
+const { createPage } = require('@mina/reactivity');
 
 createPage()({
   $data: (ctx) => {

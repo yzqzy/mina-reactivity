@@ -1,4 +1,4 @@
-const { createPage, reactive, effect } = require('@minipro/reactivity');
+const { createPage, reactive, effect } = require('@mina/reactivity');
 
 const student = reactive({
   name: '张三'

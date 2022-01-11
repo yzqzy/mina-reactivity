@@ -16,7 +16,7 @@
 #### 1. NPM 安装
 
 ```js
-npm i @minipro/reactivity --save
+npm i @mina/reactivity --save
 ```
 
 安装完成后，使用小程序开发工具构建 **NPM** 即可。
@@ -30,7 +30,7 @@ npm i @minipro/reactivity --save
 #### 1. 数据驱动
 
 ```js
-const { createPage, reactive } = require('@minipro/reactivity');
+const { createPage, reactive } = require('@mina/reactivity');
 
 const student = reactive({
   name: '张三'
@@ -57,7 +57,7 @@ createPage()({
 #### 2. mixins 
 
 ```js
-const { createPage, reactive } = require('@minipro/reactivity');
+const { createPage, reactive } = require('@mina/reactivity');
 
 const student = reactive({
   name: '张三'
@@ -98,7 +98,7 @@ createPage()({
 ##### 1. 创建store
 
 ```js
-import { Store } from '@minipro/reactivity';
+import { Store } from '@mina/reactivity';
 
 export default new Store({
   state: {
@@ -128,7 +128,7 @@ App({
 ##### 3. 页面使用
 
 ```js
-const { createPage } = require('@minipro/reactivity');
+const { createPage } = require('@mina/reactivity');
 
 createPage()({
   $data: (ctx) => {
@@ -169,7 +169,7 @@ createPage()({
 #### 4. 副作用函数
 
 ```js
-const { createPage, reactive, effect } = require('@minipro/reactivity');
+const { createPage, reactive, effect } = require('@mina/reactivity');
 
 const student = reactive({
   name: '张三'
