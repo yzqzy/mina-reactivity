@@ -195,7 +195,3 @@ createPage()({
 ```
 
 [代码片段](https://developers.weixin.qq.com/s/xq97APmj7tlV)
-
-### 总结
-
-开源不易，且用且珍惜。
