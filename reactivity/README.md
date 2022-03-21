@@ -50,8 +50,6 @@ createPage()({
 
 ```
 
-[代码片段](https://developers.weixin.qq.com/s/L65LMPmy74lT)
-
 #### 2. mixins 
 
 ```js
@@ -88,8 +86,6 @@ createPage()({
   },
 })
 ```
-
-[代码片段](https://developers.weixin.qq.com/s/Gp5hoPmI7plL)
 
 #### 3. 状态管理
 
@@ -162,8 +158,6 @@ createPage()({
 })
 ```
 
-[代码片段](https://developers.weixin.qq.com/s/qG8DYPmc7slV)
-
 #### 4. 副作用函数
 
 ```js
@@ -191,5 +185,3 @@ createPage()({
   },
 })
 ```
-
-[代码片段](https://developers.weixin.qq.com/s/xq97APmj7tlV)
