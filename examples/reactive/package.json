@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "@mina/reactivity": "^1.0.0"
+    "mina-reactivity": "^1.0.0"
   }
 }

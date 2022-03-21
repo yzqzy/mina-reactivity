@@ -1,4 +1,4 @@
-import { Store } from '@mina/reactivity';
+import { Store } from 'mina-reactivity';
 
 export default new Store({
   state: {

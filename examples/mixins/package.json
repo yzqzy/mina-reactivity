@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mina/reactivity": "^1.0.0"
+    "mina-reactivity": "^1.0.0"
   }
 }
