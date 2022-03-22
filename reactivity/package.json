@@ -1,6 +1,6 @@
 {
   "name": "mina-reactivity",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "小程序状态管理解决方案。",
   "main": "index.js",
   "miniprogram": "dist",
